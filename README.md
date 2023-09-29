@@ -1,0 +1,3 @@
+My first attempt at making a landing page for a website using all the skills I learned by follow the Foundations course in The Odin Project's curicculum. If anyone somehow stumbles across this project, please try not to expect too much as I am still learning and have just started on my development journey. 
+
+I do very much welcome constructive criticism and will probably provide a way to contact me at a later date (if GitHub doesn't already have that, again I'm new to all this including GitHub).
